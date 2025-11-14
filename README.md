@@ -3,6 +3,7 @@ MindScribe is a full-stack web application that allows users to create threads b
 Technologies Used: React, Express, Node.js, MongoDB, Redux, Framer Motion, Cloudinary
 
 Run npm install in both folders
-Frontend: npm run dev
-Backend: nodemon index.js
 
+Frontend: npm run dev
+
+Backend: nodemon index.js
